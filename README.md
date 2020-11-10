@@ -13,7 +13,7 @@ Simple redshift toggle switch. Displays current redshift display temperature tar
 
 - Left click to toggle on/off
 
-# Configuration
+## Configuration
 
 - Move `redshift.sh` to ~/.config/polybar/scripts/redshift.sh
 - Make `redshift.sh` executable
