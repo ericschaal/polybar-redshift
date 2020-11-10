@@ -2,7 +2,7 @@
 
 Simple redshift toggle switch. Displays current redshift display temperature target.
 
-<img src="https://imgur.com/F8n0WOz"/>
+<img src="https://github.com/ericschaal/polybar-redshift/blob/master/img/1.jpg"/>
 
 ## Dependencies
 
