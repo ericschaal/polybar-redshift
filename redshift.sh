@@ -2,7 +2,7 @@
 
 
 checkIfRunning() {
-  if [ $(systemctl --user is-active redshift) == "active" ]; then
+  if [ $(systemctl --user is-active redshift) = "active" ]; then
     return 0
   else
     return 1
